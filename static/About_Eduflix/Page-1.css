@@ -1,0 +1,147 @@
+.u-section-1 {
+  background-image: url("images/project_photo.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 502px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 414px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 317px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 238px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 180px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 710px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 61px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 511px;
+  height: 427px;
+  margin: 92px auto 0 117px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 546px;
+  min-height: 363px;
+  margin: -395px 61px 60px auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 20px 36px 0 60px;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 13px 179px 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    margin-top: -387px;
+    margin-right: -28px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 718px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 424px;
+    min-height: 380px;
+    margin-top: -230px;
+    margin-right: -37px;
+    margin-bottom: 0;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 2.25rem;
+    margin-top: 0;
+    margin-right: 57px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 813px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 224px;
+    margin-top: 17px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 284px;
+    margin-top: 31px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 419px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 22px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 0;
+  }
+}
